@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'Roboto, Regular';
+  src:  url("./Roboto/Roboto-Regular.ttf") format('truetype');
+}
+
+@font-face {
+  font-family: 'Roboto, Bold';
+  src:  url("./Roboto/Roboto-Bold.ttf") format('truetype');
+}
+
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.css");
