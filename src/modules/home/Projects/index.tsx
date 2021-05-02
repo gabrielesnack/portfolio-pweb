@@ -33,7 +33,7 @@ const MyProjects = () => {
           className="project"
           title="Portfólio"
           description="The project aim using just react.js and styled components to increase my skills and my understand about them."
-          image="logo192.png"
+          image="img/logo192.png"
         />
       </StyledGrid>
       
