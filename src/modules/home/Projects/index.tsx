@@ -17,7 +17,7 @@ const MyProjects = () => {
           className="project"
           title="Angular Seed"
           description="Clean structure / boilerplate to create large apps with angular and work with squads."
-          image="img/angular.png"
+          image="img/Angular.png"
           link="https://github.com/gabrielesnack/angular-seed"
         />
 
