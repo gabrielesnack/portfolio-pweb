@@ -11,8 +11,8 @@ const Head = () => {
       
       <title>Gabriel Esnack</title>
       <meta name="description" content="Portfolio do gabriel" />
-      <meta name="author" content="Gabriel Metadata" />
-      <meta name="keywords" content="Batata-frita, Pão de queijo" />
+      <meta name="author" content="Gabriel" />
+      <meta name="keywords" content="" />
 
       <meta property="og:type" content="page" />
       <meta property="og:title" content="Gabriel Esnack" />
