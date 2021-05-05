@@ -4,25 +4,20 @@ import Banner from '@modules/home/Banner';
 import Projects from '@modules/home/Projects';
 import PersonalInformation from '@modules/home/PersonalInformation';
 import Footer from '@modules/common/footer/';
-import Head from './head';
 
 
 export default () => {
   return (
-    <>
-      <Head></Head>
+    <DefaultLayout>
       
-      <DefaultLayout>
-        
-        <Banner></Banner>
+      <Banner></Banner>
 
-        <Projects></Projects>
+      <Projects></Projects>
 
-        <PersonalInformation></PersonalInformation>
+      <PersonalInformation></PersonalInformation>
 
-        <Footer></Footer>
-      </DefaultLayout>
-    </>
+      <Footer></Footer>
+    </DefaultLayout>
   )
 }
 
